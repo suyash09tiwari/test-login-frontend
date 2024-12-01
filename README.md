@@ -1,6 +1,6 @@
-# Contact Management App
+# Zenstudy Login And Registration Platform
 
-This project is a Contact Management App built with [Create React App](https://github.com/facebook/create-react-app). It allows users to **sign up**, **log in**, **register contacts**, **add contacts**, **delete contacts**, and manage their personal contacts seamlessly.
+This project is a Login And Registration Platform .It allows users to **sign up**, **log in**, **register contacts**, **add contacts**, **delete contacts**, and manage their personal contacts seamlessly.
 
 ## Features
 
@@ -12,6 +12,10 @@ This project is a Contact Management App built with [Create React App](https://g
   - Login Page
   - Signup Page
   - Contacts List Page
+ 
+## Deployment Link
+
+(https://sparkling-queijadas-b79836.netlify.app/)
   
 ## Available Scripts
 
@@ -25,7 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `yarn test`
 
 Launches the test runner in interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
@@ -40,7 +43,6 @@ It bundles React in production mode and optimizes the build for the best perform
 
 To learn more about React and Create React App, check out the following resources:
 
-- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React Documentation](https://reactjs.org/)
 
 ---
@@ -51,9 +53,7 @@ If you encounter build issues, refer to the [Create React App troubleshooting gu
 
 ---
 
-## Deployment Link
 
-(https://sparkling-queijadas-b79836.netlify.app/)
 
 ---
 
